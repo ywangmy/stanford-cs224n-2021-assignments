@@ -10,6 +10,7 @@ python src/run.py finetune vanilla wiki.txt \
 
 [Output](log-d-finetune.txt)
 
+Some extra codes were added in `student-new/src/trainer.py` to plot the epoch-loss curve (not required in the assignment):
 [Epoch-Loss Plot](epoch-loss-d-finetune.pdf)
 
 ```shell
